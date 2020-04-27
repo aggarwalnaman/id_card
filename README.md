@@ -1,5 +1,7 @@
 # idcard
 
+You can download apk file name app.apk from above.
+
 # Screenshot
 
 ![Screenshot](https://user-images.githubusercontent.com/42396114/80303429-eba92e00-87cd-11ea-897c-97fb73908990.jpg)
